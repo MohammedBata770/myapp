@@ -1,6 +1,6 @@
 #include<iostream>
 
-using namespace usb;
+using namespace USB;
 
-cout <<"ahmed";
+cout <<"ahmed"<<"mohammed";
 
